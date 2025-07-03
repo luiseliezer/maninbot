@@ -1,5 +1,5 @@
 🤖 Manin Bot
-¡Bienvenido a Manin Bot! Un bot multifuncional diseñado para [Aquí describe brevemente para qué plataforma es el bot, ej: "moderar y entretener en servidores de Discord" o "gestionar tu canal de Twitch"].
+¡Bienvenido a Manin Bot! Un bot multifuncional diseñado para [whatsapp"].
 
 Este proyecto está construido con Node.js y está diseñado para ser fácilmente personalizable y escalable.
 
