@@ -1,0 +1,30 @@
+{
+  "name": "maninbot-ai",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp con IA Gemini - Estilo Dominicano",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.15.0",
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.18",
+    "dotenv": "^17.0.1",
+    "pino": "^8.21.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "ai",
+    "gemini",
+    "dominican"
+  ],
+  "author": "Luis Toribio",
+  "license": "MIT"
+}

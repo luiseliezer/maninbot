@@ -1,0 +1,21 @@
+# Archivo de variables de entorno con secretos
+.env
+
+# Carpeta de dependencias de Node.js (muy importante)
+node_modules/
+
+# Archivos y carpetas de registros (logs)
+logs/
+*.log
+
+# Archivos de sesión que puedan generarse
+session/
+
+# Archivos temporales
+temp/
+
+# Archivos de debug de NPM
+npm-debug.log*
+
+# Archivos de sistema operativo
+.DS_Store
